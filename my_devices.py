@@ -11,7 +11,7 @@ cisco3={
 arista1=dict(
  "hostname"="arista1.lasthop.io",
 "username"="pyclass",
-"password"=getpass().
+"password"=getpass(),
 "optional_args"={}
-}
+)
 
